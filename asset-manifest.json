@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea83c687.chunk.css",
-    "main.js": "/static/js/main.1b0ec7a3.chunk.js",
-    "main.js.map": "/static/js/main.1b0ec7a3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e06eb508.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e06eb508.js.map",
-    "static/js/2.2da31ff2.chunk.js": "/static/js/2.2da31ff2.chunk.js",
-    "static/js/2.2da31ff2.chunk.js.map": "/static/js/2.2da31ff2.chunk.js.map",
-    "static/js/3.dc0d2c88.chunk.js": "/static/js/3.dc0d2c88.chunk.js",
-    "static/js/3.dc0d2c88.chunk.js.map": "/static/js/3.dc0d2c88.chunk.js.map",
+    "main.css": "/static/css/main.0a4ac5b1.chunk.css",
+    "main.js": "/static/js/main.97146f66.chunk.js",
+    "main.js.map": "/static/js/main.97146f66.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d74b0da9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d74b0da9.js.map",
+    "static/js/2.664d3f72.chunk.js": "/static/js/2.664d3f72.chunk.js",
+    "static/js/2.664d3f72.chunk.js.map": "/static/js/2.664d3f72.chunk.js.map",
+    "static/js/3.5514f96d.chunk.js": "/static/js/3.5514f96d.chunk.js",
+    "static/js/3.5514f96d.chunk.js.map": "/static/js/3.5514f96d.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.ea83c687.chunk.css.map": "/static/css/main.ea83c687.chunk.css.map",
-    "static/js/2.2da31ff2.chunk.js.LICENSE.txt": "/static/js/2.2da31ff2.chunk.js.LICENSE.txt",
+    "static/css/main.0a4ac5b1.chunk.css.map": "/static/css/main.0a4ac5b1.chunk.css.map",
+    "static/js/2.664d3f72.chunk.js.LICENSE.txt": "/static/js/2.664d3f72.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/Admin.c9207524.png",
-    "static/media/MainPage.css": "/static/media/MainImg.ec915400.png",
+    "static/media/MainImg.ec915400.png": "/static/media/MainImg.ec915400.png",
     "static/media/americano.323f247b.png": "/static/media/americano.323f247b.png",
     "static/media/appleMangoCrush.f43c1250.png": "/static/media/appleMangoCrush.f43c1250.png",
     "static/media/bananaJuice.e9392891.png": "/static/media/bananaJuice.e9392891.png",
@@ -23,6 +23,7 @@
     "static/media/blueTangerineTea.d809e618.png": "/static/media/blueTangerineTea.d809e618.png",
     "static/media/blueberryYogurt.d835804c.png": "/static/media/blueberryYogurt.d835804c.png",
     "static/media/cafelatte.9d8d7219.png": "/static/media/cafelatte.9d8d7219.png",
+    "static/media/cafelogo.6180724b.png": "/static/media/cafelogo.6180724b.png",
     "static/media/cafemoca.7d9d5dbf.png": "/static/media/cafemoca.7d9d5dbf.png",
     "static/media/calamansiAde.5e55d206.png": "/static/media/calamansiAde.5e55d206.png",
     "static/media/caramelmacchiato.cd07fc65.png": "/static/media/caramelmacchiato.cd07fc65.png",
@@ -36,6 +37,7 @@
     "static/media/coffeeBeanBread.c6ca5b99.png": "/static/media/coffeeBeanBread.c6ca5b99.png",
     "static/media/custardCreamBread.23b6422d.png": "/static/media/custardCreamBread.23b6422d.png",
     "static/media/dalgonaBubbleLatte.d3500b9b.png": "/static/media/dalgonaBubbleLatte.d3500b9b.png",
+    "static/media/database.6c67b682.png": "/static/media/database.6c67b682.png",
     "static/media/drink.3ea0ad6d.png": "/static/media/drink.3ea0ad6d.png",
     "static/media/error.1dee70c7.png": "/static/media/error.1dee70c7.png",
     "static/media/gingerTea.9af6f0f1.png": "/static/media/gingerTea.9af6f0f1.png",
@@ -76,9 +78,9 @@
     "static/media/vanillalatte.451ec4f0.png": "/static/media/vanillalatte.451ec4f0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e06eb508.js",
-    "static/js/2.2da31ff2.chunk.js",
-    "static/css/main.ea83c687.chunk.css",
-    "static/js/main.1b0ec7a3.chunk.js"
+    "static/js/runtime-main.d74b0da9.js",
+    "static/js/2.664d3f72.chunk.js",
+    "static/css/main.0a4ac5b1.chunk.css",
+    "static/js/main.97146f66.chunk.js"
   ]
 }
